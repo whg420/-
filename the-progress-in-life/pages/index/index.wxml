@@ -1,0 +1,27 @@
+<!--pages/index/index.wxml-->
+<view class="main">
+<view class="title">
+<text>中国现阶段人均寿命900个月</text>
+</view>
+<view class="prime">
+<picker class="primePicker">
+<view class="btn">点击设置出生年月，查看人生进度</view>
+</picker>
+<!-- <view class="imgs">
+<image src='../../static/img/11.jpg'></image>
+</view> -->
+<view class="container">
+    <view class="header"></view>
+    <view class="battery">
+    </view>
+    <view class="battery-copy">
+        <view class="g-wave"></view>
+        <view class="g-wave"></view>
+        <view class="g-wave"></view>
+    </view>
+</view>
+</view>
+<view class="titles">
+<text>莫找借口失败，只找理由成功</text>
+</view>
+</view>
